@@ -68,8 +68,4 @@ if priorityStatus.lower() == "gold" and (overAllScore < 11 or flight < 3 or food
 
 if priorityStatus.lower() == "newbie" and (overAllScore < 10 or flight < 2 or food < 2 or movie < 2):
     print("Your survey score of", overAllScore, "was lower than we would like. You will have more fun next time.")
-print("""\n The this program was fun but challenging at the same time."
-      " I was trying to remember how the IF and ELIF statements get written for each piece of information."
-      "However as I went through the process of figuring out how"
-    "to write this code it became easier as this writing of the program is alot of repetition. "
-      "I stumbled on a couple errors towards the end. I trying to learn as i go nonetheless.""")
+
