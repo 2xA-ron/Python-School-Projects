@@ -1,6 +1,6 @@
 #selection.py
 # Program - Aaron Rodriguez
-print('This program is a simple guessing game, your asked set of question and based on the response '
+print('This program is a simple guessing game, you're asked a set of question and based on the response '
       'the response will vary if you got one or the other correct or nether correct.')
 
 fav_color = input('\nGuess my friends color: ')
